@@ -1,0 +1,15 @@
+.table {
+    background-color: var(--light-color);
+    border-radius: 0.75rem;
+    padding: 0.75rem;
+
+}
+
+.container {
+    max-width: 90rem;
+    overflow-x: scroll;
+    border: 1px solid var(--main-color);
+}
+
+.rowsWrapper {
+}
